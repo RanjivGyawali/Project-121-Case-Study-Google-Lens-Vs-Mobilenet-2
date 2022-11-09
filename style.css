@@ -23,7 +23,7 @@ span{
     border-radius: 10px;
 }
 b{
-    color: purple;
+    color: red;
 }
 .first,.second{
     background-color: white;
@@ -42,7 +42,8 @@ b{
     color: white;
 }
 span{
-    color: red;
+    color: blue;
+    font-weight: bold;
 }
 .google_lens{
     color: black;
